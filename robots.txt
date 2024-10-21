@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tophdrec.github.io/tophdrec.txt.gz
+Sitemap: https://tophdrec.github.io/app/tophdrec.txt.gz
+Sitemap: https://tophdrec.github.io/assets/tophdrec.txt.gz
+Sitemap: https://tophdrec.github.io/css/tophdrec.txt.gz
+Sitemap: https://tophdrec.github.io/includes/tophdrec.txt.gz
+Sitemap: https://tophdrec.github.io/item/tophdrec.txt.gz
+Sitemap: https://tophdrec.github.io/src/tophdrec.txt.gz
